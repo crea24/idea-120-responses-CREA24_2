@@ -6,7 +6,7 @@ User: Not really computer. What does love feel like?
 Computer: Love is a culmination of feelings of euphoria and excitement, a sense of connection to another. Does this answer your question?   
 User: Yes computer. I think I am beginning to understand.   
 
-[![Man and Her](HER.jpeg)  
+![Man and Her](HER.jpeg)  
 
-[![Her Speaking](HER-SCREEN.jpeg)  
+![Her Speaking](HER-SCREEN.jpeg)  
 
