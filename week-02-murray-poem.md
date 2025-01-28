@@ -10,3 +10,4 @@ User: Yes computer. I think I am beginning to understand.
 
 ![Her Speaking](HER-SCREEN.jpeg)  
 
+YouTube Video Link: https://youtu.be/hZKmFVfkw-E?si=fI2RfCNIjjGAYzi5
